@@ -1,0 +1,11 @@
+[package]
+name = "subruster"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+trust-dns-resolver = "0.22"
+colored = "2"
+indicatif = "0.17"
+clap = { version = "4", features = ["derive"] }
