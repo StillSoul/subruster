@@ -1,4 +1,3 @@
-````markdown
 # SubRuster 🦀
 
 A fast and lightweight **subdomain enumeration tool** written in Rust.  
